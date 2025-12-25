@@ -39,3 +39,5 @@
 Özellikler: Boyut=110 m², Oda Sayısı=2
 
 Tahmin Edilen Fiyat: 218.101,75 TL
+<img width="1457" height="579" alt="image" src="https://github.com/user-attachments/assets/bb9e115c-257c-43b9-bcfe-23026ebf4b4a" />
+
