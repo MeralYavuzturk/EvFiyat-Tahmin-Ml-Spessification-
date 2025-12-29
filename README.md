@@ -1,5 +1,6 @@
 ### 🏠 Machine Learning: Ev Fiyatı Tahminleme Modeli
 #### Bu proje, konut özelliklerine (metrekare, oda sayısı vb.) dayanarak ev fiyatlarını tahmin etmek için geliştirilmiş bir Makine Öğrenmesi (ML) modelidir. Proje, regresyon analizi kullanarak veriler arasındaki ilişkileri modeller ve gerçekçi fiyat tahminleri sunar.
+### Çalıştırılabilir zip dosyası linki: https://github.com/MeralYavuzturk/EvFiyat-Tahmin-Ml-Spessification-/releases/tag/v.1.0.0
 
 ### 📊 Model Performansı ve Metrikler
 #### Eğitilen model, başarı oranını ölçmek için aşağıdaki standart regresyon metriklerini kullanmaktadır:
